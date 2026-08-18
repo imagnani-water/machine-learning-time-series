@@ -36,7 +36,7 @@ It represents Phase 2 of my learning roadmap toward **Water Systems AI, Digital 
 - [x] Complete Pandas Data Wrangling.
 - [x] Complete Intro & Intermediate Machine Learning.
 - [x] Complete Time Series Analysis.
-- [ ] Complete **Feature Engineering** (Kaggle).
+- [x] Complete **Feature Engineering** (Kaggle).
 - [ ] Apply ML & Time Series methods to real-world water infrastructure datasets (hydrological forecasting, network pressures, and treatment operations).
 - [ ] Transition to **Deep Learning** (LSTMs) for complex temporal dynamics.
 
